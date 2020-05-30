@@ -1,0 +1,3 @@
+[submodule "themes/devclass"]
+	path = themes/devclass
+	url = https://github.com/faisalindrianto/devclass-hugo-theme.git

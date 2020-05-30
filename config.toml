@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Blog Yuda"
+theme = "devclass"
+
+[taxonomies]
+category = "categories"

@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://determined-curran-c03929.netlify.app/"
 languageCode = "en-us"
 title = "Blog Yuda"
 theme = "devclass"
